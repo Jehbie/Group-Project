@@ -1,0 +1,25 @@
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 14rem;
+    font-weight: bold;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    
+  }
+  .card-registration .select-arrow {
+    top: 13px;
+    background-color: rgba(245, 245, 245, 0.4) 
+
+  }
+  section{
+      background-size: cover;
+      background-image: url(images/EazyLearnGroup.jpg)
+  }
+
+  .card{
+      background-color: hsla(11, 0%, 100%, 0.3);
+  }
+  .form-control{
+      background: hsla(11, 0%, 100%, 0.3);
+  }
